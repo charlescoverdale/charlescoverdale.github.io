@@ -41,5 +41,3 @@ Applied analysis
 | [`nowcast`](https://github.com/charlescoverdale/nowcast) | Economic nowcasting: bridge equations, mixed-frequency alignment | [CRAN](https://cran.r-project.org/package=nowcast) |
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices (temperature, precipitation, drought, comfort) | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Model-agnostic conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
-
-All packages follow a common design: pure-R dependencies where possible, `cli` for user messages, comprehensive test suites, and `tools`-based caching. Contributions and issues are welcome.
