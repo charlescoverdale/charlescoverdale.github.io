@@ -37,6 +37,8 @@ redirect_from:
 **Strategy& / PwC Australia**
 <br>Mar 2019 – Jan 2021 | Melbourne, Australia
 
+*PwC Australia (and its subsidiary Strategy&) is Australia's largest professional services firm. PwC's economics and policy teams span a wide commercial and advisory practice in both the public and private sectors.*
+
 *Senior Associate, Economics (Nov 2020 – Jan 2021)*
 
 - Built an econometric land valuation model in R linking native vegetation and carbon sequestration contracts to property prices across Victoria, informing state-level climate finance and land-use policy.
