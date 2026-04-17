@@ -23,17 +23,18 @@ I build R packages for applied economic analysis. Most are on CRAN. Source for a
 UK data access
 ======
 
-| Package | Description | CRAN |
+| Package | Description | Link |
 |---|---|---|
 | [`ons`](https://github.com/charlescoverdale/ons) | Office for National Statistics data | [CRAN](https://cran.r-project.org/package=ons) |
 | [`boe`](https://github.com/charlescoverdale/boe) | Bank of England statistical database | [CRAN](https://cran.r-project.org/package=boe) |
 | [`hmrc`](https://github.com/charlescoverdale/hmrc) | HM Revenue and Customs tax statistics | [CRAN](https://cran.r-project.org/package=hmrc) |
 | [`obr`](https://github.com/charlescoverdale/obr) | Office for Budget Responsibility forecasts | [CRAN](https://cran.r-project.org/package=obr) |
+| [`ukhousing`](https://github.com/charlescoverdale/ukhousing) | UK housing data (Land Registry, EPC, planning) | [GitHub](https://github.com/charlescoverdale/ukhousing) |
 
 International data access
 ======
 
-| Package | Description | CRAN |
+| Package | Description | Link |
 |---|---|---|
 | [`readecb`](https://github.com/charlescoverdale/readecb) | European Central Bank Data Portal | [CRAN](https://cran.r-project.org/package=readecb) |
 | [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
@@ -41,11 +42,12 @@ International data access
 | [`readnoaa`](https://github.com/charlescoverdale/readnoaa) | NOAA climate data | [CRAN](https://cran.r-project.org/package=readnoaa) |
 | [`readaec`](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission data | [CRAN](https://cran.r-project.org/package=readaec) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
+| [`carbondata`](https://github.com/charlescoverdale/carbondata) | Carbon market data (ETS, voluntary registries) | [GitHub](https://github.com/charlescoverdale/carbondata) |
 
 Applied analysis
 ======
 
-| Package | Description | CRAN |
+| Package | Description | Link |
 |---|---|---|
 | [`inflateR`](https://github.com/charlescoverdale/inflateR) | Currency and inflation adjustment | [CRAN](https://cran.r-project.org/package=inflateR) |
 | [`inflationkit`](https://github.com/charlescoverdale/inflationkit) | CPI decomposition, core measures, Phillips curve | [CRAN](https://cran.r-project.org/package=inflationkit) |
@@ -54,12 +56,4 @@ Applied analysis
 | [`nowcast`](https://github.com/charlescoverdale/nowcast) | Economic nowcasting, bridge equations | [CRAN](https://cran.r-project.org/package=nowcast) |
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
-
-In review
-======
-
-| Package | Description | GitHub |
-|---|---|---|
-| [`ukhousing`](https://github.com/charlescoverdale/ukhousing) | UK housing data (Land Registry, EPC, planning) | [GitHub](https://github.com/charlescoverdale/ukhousing) |
-| [`carbondata`](https://github.com/charlescoverdale/carbondata) | Carbon market data (ETS, voluntary registries) | [GitHub](https://github.com/charlescoverdale/carbondata) |
 | [`inequality`](https://github.com/charlescoverdale/inequality) | Inequality measurement, decomposition, poverty | [GitHub](https://github.com/charlescoverdale/inequality) |
