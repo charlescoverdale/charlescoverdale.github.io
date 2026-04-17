@@ -47,9 +47,3 @@ Reading notes
 - [Reading note: Great Britain?](https://www.charlescoverdale.com/p/reading-note-great-britain)
 - [Reading note: Nuclear War: A Scenario](https://www.charlescoverdale.com/p/reading-note-nuclear-war-a-scenario)
 - [Reading note: On the Edge](https://www.charlescoverdale.com/p/reading-note-on-the-edge)
-
-Other
-======
-
-- [R Cookbook for the Casual Dabbler](https://www.charlescoverdale.com/p/r-cookbook-for-the-casual-dabbler)
-- [Macroeconomics with R](https://macrowithr.com) (book)
