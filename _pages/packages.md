@@ -63,4 +63,3 @@ In review
 | [`ukhousing`](https://github.com/charlescoverdale/ukhousing) | UK housing data (Land Registry, EPC, planning) | [GitHub](https://github.com/charlescoverdale/ukhousing) |
 | [`carbondata`](https://github.com/charlescoverdale/carbondata) | Carbon market data (ETS, voluntary registries) | [GitHub](https://github.com/charlescoverdale/carbondata) |
 | [`inequality`](https://github.com/charlescoverdale/inequality) | Inequality measurement, decomposition, poverty | [GitHub](https://github.com/charlescoverdale/inequality) |
-| [`debtsust`](https://github.com/charlescoverdale/debtsust) | Debt sustainability and fiscal risk assessment | [GitHub](https://github.com/charlescoverdale/debtsust) |
