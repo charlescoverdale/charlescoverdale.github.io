@@ -1,11 +1,11 @@
 # Header navigation.
 
 main:
-  - title: "CV"
-    url: /cv/
-
   - title: "Writing"
     url: /writing/
 
   - title: "Packages"
     url: /packages/
+
+  - title: "CV"
+    url: /cv/
