@@ -11,35 +11,53 @@ redirect_from:
 
 ## Professional Experience
 
-**Ricardo Plc (now WSP) — Associate Director, Economics**
-<br>April 2025 – Present | London, United Kingdom
+**Ricardo plc (now WSP) — Economist (Associate Director)**
+<br>Apr 2025 – Present | London, United Kingdom
 
-- Finance lead for the European Commission's flagship MIP4Adapt programme (EUR 6.5m), assisting 45 regions and cities across the EU27 to develop climate adaptation projects.
-- Led the impact evaluation for DESNZ's GBP 500m Industrial Energy Transformation Fund (IETF).
-- Led a Green Book compliant economic evaluation using a 4 E's approach across 12 decarbonisation projects.
-- Developed a feasibility study for the LEAF Coalition regarding commercial structures to transact carbon credits in Mato Grosso, Brazil.
+- Designed and led quantitative program evaluations for UK Government (DESNZ), including impact assessment, cost-benefit modelling, and cost-effectiveness analysis for the Industrial Energy Transformation Fund (IETF) and Net Zero Innovation Program (NZIP).
+- Finance lead for the European Commission's MIP4Adapt programme, developing economic, commercial, and financial business cases, including cashflow modelling, PPP structuring, green bond feasibility, and investor engagement, for climate adaptation infrastructure across the 30+ regions in the EU27.
+- Technical lead and quality assurance manager for feasibility and commercial structuring of jurisdictional REDD+ carbon credit transactions in central Brazil, delivering revenue/cost models and contract advice to assess project viability for the LEAF Coalition.
 
-**Tenant Advisory and Investments — Director, Advisory and Investments**
-<br>January 2021 – December 2024 | Melbourne, Australia
+**Tenet Advisory & Investments**
+<br>Jan 2021 – Dec 2024 | Melbourne, Australia
 
-- First employee of the infrastructure and economics team. Contributed to growth from startup to ~80 FTE with ~AUD 35m in annual recurring revenue.
-- Led the economic appraisal and cost-benefit analysis of the Melbourne Cricket Ground redevelopment (~AUD 2bn).
-- Managed buy-side M&A advisory for an industry consortium targeting a state-significant agricultural asset (~AUD 300m).
-- Built a quantitative model for the Treasury to assess carbon farming feasibility across Australia.
+*Director | Advisory & Investments (Jul 2023 – Dec 2024)*
 
-**PwC/Strategy& — Senior Associate, Economics and Policy**
-<br>January 2019 – January 2021 | Melbourne, Australia
+- Led buy-side M&A strategy for an industry consortium targeting a ~AUD 300m state-significant agricultural asset, covering regulatory and pricing analysis, transaction structuring, asset valuation, and post-deal value creation strategy.
 
-- Built a financial model estimating nuclear medicine output and pricing for ANSTO, developing 8 budget and policy scenarios.
-- Developed and deployed an econometric model in R to estimate land prices across Victoria based on native vegetation and carbon sequestration contracts.
-- Developed machine learning and predictive analytics models in R and Alteryx to forecast revenue opportunities for a major telco.
+*Associate Director | Advisory & Investments (Jan 2021 – Jun 2023)*
 
-**UQ School of Economics — Project Coordinator & Academic Tutor**
-<br>January 2015 – January 2019 | Brisbane, Australia
+- Led the economic appraisal and cost-benefit analysis of the ~AUD 2bn MCG redevelopment, designing a bespoke benefits framework with Treasury and academic experts, building the CBA model, procuring CGE analysis, and delivering the business case to government and the Minister.
+- Built scenario analysis and financial models to estimate the economic impact of infrastructure shutdown in the forestry sector, stress-testing macroeconomic and competitor assumptions to inform government negotiation strategy with the private operator.
 
-- Tutorial Coordinator for ECON1020 Introductory Macroeconomics, managing content for over 1,000 students.
-- Built and managed a team of 5 staff to produce 70 educational films for UQ's largest first-year economics course.
-- Admitted as an Associate Fellow to the Higher Education Academy.
+**Strategy& / PwC Australia**
+<br>Mar 2019 – Jan 2021 | Melbourne, Australia
+
+*Senior Associate | Economics (Nov 2020 – Jan 2021)*
+
+- Built an econometric land valuation model in R linking native vegetation and carbon sequestration contracts to property prices across Victoria, informing state-level climate finance and land-use policy.
+
+*Associate | Economics & Policy (Mar 2019 – Oct 2020)*
+
+- Led a team building geospatial models from complex vector/raster datasets to determine telco infrastructure locations, informing a Board-level go/no-go decision on AUD 100m+ CAPEX.
+- Built COVID-19 macroeconomic stress-testing models for two of Australia's largest financial institutions, forecasting expected credit loss (ECL) under multiple scenarios and presenting credit risk findings to senior executives.
+- Developed financial scenario models and a regulated pricing framework for two Commonwealth agencies including 8-scenario budget modelling for nuclear medicine supply chain (presented to the Minister) and OPEX/CAPEX forecasting for Australia's first national radioactive waste storage facility.
+
+**The University of Queensland**
+<br>Jan 2015 – Mar 2019 | Brisbane, Australia
+
+*Project Coordinator | UQx Economics (Aug 2018 – Mar 2019)*
+
+- Managed production of 70 economics lecture films and authored macroeconomic course content across 13 modules for the university's largest first-year course.
+
+*Academic Tutor | Economics (Jan 2015 – Dec 2018)*
+
+- Tutorial Coordinator for 1,000+ students across four undergraduate and postgraduate economics courses. Awarded the Distinguished Teaching Award and admitted as Associate Fellow, Higher Education Academy.
+
+**The Floor — Intern**
+<br>Nov 2017 – Dec 2017 | Tel Aviv, Israel
+
+- Conducted venture capital screening of Israeli cybersecurity startups for investment by global retail banks at a fintech accelerator based at the Tel Aviv Stock Exchange.
 
 ---
 
