@@ -54,3 +54,13 @@ Applied analysis
 | [`nowcast`](https://github.com/charlescoverdale/nowcast) | Economic nowcasting, bridge equations | [CRAN](https://cran.r-project.org/package=nowcast) |
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
+
+In review
+======
+
+| Package | Description | GitHub |
+|---|---|---|
+| [`ukhousing`](https://github.com/charlescoverdale/ukhousing) | UK housing data (Land Registry, EPC, planning) | [GitHub](https://github.com/charlescoverdale/ukhousing) |
+| [`carbondata`](https://github.com/charlescoverdale/carbondata) | Carbon market data (ETS, voluntary registries) | [GitHub](https://github.com/charlescoverdale/carbondata) |
+| [`inequality`](https://github.com/charlescoverdale/inequality) | Inequality measurement, decomposition, poverty | [GitHub](https://github.com/charlescoverdale/inequality) |
+| [`debtsust`](https://github.com/charlescoverdale/debtsust) | Debt sustainability and fiscal risk assessment | [GitHub](https://github.com/charlescoverdale/debtsust) |
