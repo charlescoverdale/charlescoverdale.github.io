@@ -23,6 +23,8 @@ redirect_from:
 **Tenet Advisory & Investments**
 <br>Jan 2021 – Dec 2024 | Melbourne, Australia
 
+*Tenet (formerly known as Sayers) is a leading Australian boutique advisory and investments firm. Tenet was founded in late 2020 and backed by private Australian and US institutional capital. The firm offers bespoke strategic and commercial advice to C-suite executives, boards, and Ministers regarding business and public policy investment decisions.*
+
 *Director, Advisory & Investments (Jul 2023 – Dec 2024)*
 
 - Led buy-side M&A strategy for an industry consortium targeting a ~AUD 300m state-significant agricultural asset, covering regulatory and pricing analysis, transaction structuring, asset valuation, and post-deal value creation strategy.
