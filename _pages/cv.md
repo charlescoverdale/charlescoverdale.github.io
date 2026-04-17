@@ -63,6 +63,8 @@ redirect_from:
 **The Floor — Intern**
 <br>Nov 2017 – Dec 2017 | Tel Aviv, Israel
 
+*The Floor, now part of Entrio, was a fintech startup based out of the Tel Aviv Stock Exchange. The Floor aimed to build common platform infrastructure for digital banking, blockchain, and cybersecurity, backed by the world's largest financial institutions.*
+
 - Conducted venture capital screening of Israeli cybersecurity startups for investment by global retail banks at a fintech accelerator based at the Tel Aviv Stock Exchange.
 
 ---
