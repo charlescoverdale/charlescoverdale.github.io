@@ -37,7 +37,7 @@ International data access
 |---|---|---|
 | [`readecb`](https://github.com/charlescoverdale/readecb) | European Central Bank Data Portal | [CRAN](https://cran.r-project.org/package=readecb) |
 | [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
-| [`fred`](https://github.com/charlescoverdale/fred) | Federal Reserve Economic Data (ALFRED) | [CRAN](https://cran.r-project.org/package=fred) |
+| [`fred`](https://github.com/charlescoverdale/fred) | Federal Reserve Economic Data | [CRAN](https://cran.r-project.org/package=fred) |
 | [`readnoaa`](https://github.com/charlescoverdale/readnoaa) | NOAA climate data | [CRAN](https://cran.r-project.org/package=readnoaa) |
 | [`readaec`](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission data | [CRAN](https://cran.r-project.org/package=readaec) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
