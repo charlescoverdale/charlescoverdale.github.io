@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**G'day, I'm Charles.**
+
 I am an economist working on climate, energy, and infrastructure. I am based in London, where I work as an Associate Director in the economics team at [WSP](https://www.wsp.com/).
 
 My work focuses on the commercial and policy edge of the energy transition: carbon markets, REDD+ and biodiversity credits, climate adaptation finance, and the cost-benefit appraisal of low-carbon infrastructure. Typical clients include the UK Government (DESNZ, DEFRA), the European Commission (DG ENV, DG CLIMA), development banks, and ASX-listed corporates.
