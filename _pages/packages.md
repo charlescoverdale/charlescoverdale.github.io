@@ -6,10 +6,16 @@ author_profile: true
 ---
 
 <style>
+/* Desktop: fixed column widths for consistent alignment */
 table { table-layout: fixed; width: 100%; }
 table th:nth-child(1), table td:nth-child(1) { width: 22%; }
 table th:nth-child(2), table td:nth-child(2) { width: 58%; }
 table th:nth-child(3), table td:nth-child(3) { width: 20%; }
+
+/* Mobile: let tables scroll horizontally */
+@media screen and (max-width: 600px) {
+  table { table-layout: auto; display: block; overflow-x: auto; white-space: nowrap; }
+}
 </style>
 
 I build R packages for applied economic analysis. Most are on CRAN. Source for all of them is on [GitHub](https://github.com/charlescoverdale).
