@@ -20,7 +20,7 @@ redirect_from:
 - Finance lead for the European Commission's MIP4Adapt programme, developing economic, commercial, and financial business cases, including cashflow modelling, PPP structuring, green bond feasibility, and investor engagement, for climate adaptation infrastructure across the 30+ regions in the EU27.
 - Technical lead and quality assurance manager for feasibility and commercial structuring of jurisdictional REDD+ carbon credit transactions in central Brazil, delivering revenue/cost models and contract advice to assess project viability for the LEAF Coalition.
 
-**Tenet Advisory & Investments — Director / Associate Director**
+**Tenet Advisory & Investments — Director**
 <br>Jan 2021 – Dec 2024 | Melbourne, Australia
 
 *Tenet (formerly known as Sayers) is a leading Australian boutique advisory and investments firm. Tenet was founded in late 2020 and backed by private Australian and US institutional capital. The firm offers bespoke strategic and commercial advice to C-suite executives, boards, and Ministers regarding business and public policy investment decisions.*
@@ -29,7 +29,7 @@ redirect_from:
 - Led the economic appraisal and cost-benefit analysis of the ~AUD 2bn MCG redevelopment, designing a bespoke benefits framework with Treasury and academic experts, building the CBA model, procuring CGE analysis, and delivering the business case to government and the Minister.
 - Built scenario analysis and financial models to estimate the economic impact of infrastructure shutdown in the forestry sector, stress-testing macroeconomic and competitor assumptions to inform government negotiation strategy with the private operator.
 
-**Strategy& / PwC Australia — Senior Associate / Associate**
+**Strategy& / PwC Australia — Senior Associate**
 <br>Mar 2019 – Jan 2021 | Melbourne, Australia
 
 *PwC Australia (and its subsidiary Strategy&) is Australia's largest professional services firm. PwC's economics and policy teams span a wide commercial and advisory practice in both the public and private sectors.*
@@ -39,7 +39,7 @@ redirect_from:
 - Built COVID-19 macroeconomic stress-testing models for two of Australia's largest financial institutions, forecasting expected credit loss (ECL) under multiple scenarios and presenting credit risk findings to senior executives.
 - Developed financial scenario models and a regulated pricing framework for two Commonwealth agencies including 8-scenario budget modelling for nuclear medicine supply chain (presented to the Minister) and OPEX/CAPEX forecasting for Australia's first national radioactive waste storage facility.
 
-**The University of Queensland — Project Coordinator / Academic Tutor**
+**The University of Queensland — Project Coordinator**
 <br>Jan 2015 – Mar 2019 | Brisbane, Australia
 
 - Managed production of 70 economics lecture films and authored macroeconomic course content across 13 modules for the university's largest first-year course.
