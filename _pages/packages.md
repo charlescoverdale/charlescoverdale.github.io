@@ -40,7 +40,7 @@ International data access
 | [`fred`](https://github.com/charlescoverdale/fred) | Federal Reserve Economic Data (ALFRED) | [CRAN](https://cran.r-project.org/package=fred) |
 | [`readnoaa`](https://github.com/charlescoverdale/readnoaa) | NOAA climate data | [CRAN](https://cran.r-project.org/package=readnoaa) |
 | [`readaec`](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission data | [CRAN](https://cran.r-project.org/package=readaec) |
-| [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | GitHub |
+| [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
 
 Applied analysis
 ======
