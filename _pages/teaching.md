@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I was an academic tutor and project coordinator at the University of Queensland School of Economics from 2015 to 2019. I tutored the following undergraduate and postgraduate courses:
+University of Queensland, Australia (2015-2019)
 
 - [ECON1050 Tools of Economic Analysis](https://programs-courses.uq.edu.au/course.html?course_code=ECON1050)
 - [ECON1020 Introductory Macroeconomics](https://programs-courses.uq.edu.au/course.html?course_code=ECON1020)
