@@ -72,10 +72,21 @@ redirect_from:
 ## Education
 
 **The University of Queensland** — Bachelor of Economics, Bachelor of Science
+<br>Brisbane, Australia
 
-**The London School of Economics** — EC307 Development Economics (study abroad)
+- Awarded the UQ International Mobility Scholarship (2018) to research climate adaptation in Hong Kong
+- Awarded the Dean's Commendation for Academic Excellence (2016)
+- Awarded the Cromwell College Principal's Award for Outstanding Academic Achievement (2014)
 
-**Tel Aviv University** — Silicon Wadi Programme (study abroad)
+**Tel Aviv University (study abroad)** — Silicon Wadi in Tel Aviv-Jaffa
+<br>Tel Aviv, Israel
+
+- Awarded the UQ International Mobility Scholarship to support interning at a fintech startup while studying at Tel Aviv University
+
+**The London School of Economics (study abroad)** — Development Economics
+<br>London, United Kingdom
+
+- Awarded the UQ Advantage Scholarship to fund tuition at the LSE while on exchange studying EC307 Development Economics
 
 ---
 
