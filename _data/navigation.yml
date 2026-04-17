@@ -1,5 +1,4 @@
 # Header navigation.
-# Keep this short. Four items is the sweet spot.
 
 main:
   - title: "CV"
@@ -10,6 +9,3 @@ main:
 
   - title: "Packages"
     url: /packages/
-
-  - title: "Contact"
-    url: /contact/
