@@ -4,11 +4,11 @@ main:
   - title: "Writing"
     url: /writing/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Packages"
     url: /packages/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
