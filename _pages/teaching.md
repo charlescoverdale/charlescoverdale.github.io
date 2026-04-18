@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-University of Queensland, Australia | Academic Tutor | 2015-2019
+**University of Queensland, Australia**
+<br>Academic Tutor | 2015-2019
 
 - [ECON1050 Tools of Economic Analysis](https://programs-courses.uq.edu.au/course.html?course_code=ECON1050)
 - [ECON1020 Introductory Macroeconomics](https://programs-courses.uq.edu.au/course.html?course_code=ECON1020)
