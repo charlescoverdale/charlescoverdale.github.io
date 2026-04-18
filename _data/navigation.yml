@@ -4,6 +4,9 @@ main:
   - title: "Writing"
     url: /writing/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Packages"
     url: /packages/
 
