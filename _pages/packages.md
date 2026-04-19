@@ -58,3 +58,4 @@ Applied analysis
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
 | [`inequality`](https://github.com/charlescoverdale/inequality) | Inequality measurement, decomposition, poverty | [GitHub](https://github.com/charlescoverdale/inequality) |
 | [`mpshock`](https://github.com/charlescoverdale/mpshock) | Monetary policy shock series (US, UK, Australia) | [GitHub](https://github.com/charlescoverdale/mpshock) |
+| [`ivcheck`](https://github.com/charlescoverdale/ivcheck) | Instrumental variable validity tests (Kitagawa, Mourifie-Wan) | [GitHub](https://github.com/charlescoverdale/ivcheck) |
