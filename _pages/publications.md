@@ -9,6 +9,18 @@ Working papers and research articles.
 
 ## 2026
 
+**Coverdale, C.** (2026). *nowcast: Economic Nowcasting with Bridge Equations and Real-Time Evaluation in R.* Working paper, 2026. \[[PDF](/files/coverdale_nowcast_2026.pdf)\] \[[code](https://github.com/charlescoverdale/nowcast)\]
+
+Estimates GDP and other low-frequency macroeconomic variables in real time, before official figures are released, using higher-frequency monthly indicators. Handles the ragged-edge problem of mixed-frequency data, evaluates nowcast accuracy through pseudo-real-time backtesting, and compares specifications with a Diebold-Mariano test.
+
+**Coverdale, C.** (2026). *climatekit: Unified Climate Indices for Temperature, Precipitation, and Drought in R.* Working paper, 2026. \[[PDF](/files/coverdale_climatekit_2026.pdf)\] \[[code](https://github.com/charlescoverdale/climatekit)\]
+
+Computes the standard suite of climate indices from daily weather observations. Covers temperature (frost days, growing degree days, warm spells), precipitation (dry spells, heavy-rain days, intensity), drought (SPI, SPEI), agroclimatology (Huglin, Winkler), and thermal comfort (wind chill, heat index, humidex). Thirty functions, all returning tidy data frames that compose directly.
+
+**Coverdale, C.** (2026). *inflateR: Inflation Adjustment for Historical Currency Values Across Thirteen Currencies in R.* Working paper, 2026. \[[PDF](/files/coverdale_inflateR_2026.pdf)\] \[[code](https://github.com/charlescoverdale/inflateR)\]
+
+Converts monetary values across time and inflation regimes for thirteen currencies (GBP, USD, EUR, JPY, AUD, and nine more). Supports both the consumer price index (for wages and household spending) and the GDP deflator (for national-accounts aggregates). Data bundled from the World Bank; zero runtime dependencies and no network access.
+
 **Coverdale, C.** (2026). *yieldcurves: Yield Curve Fitting, Analysis, and Decomposition in R.* Working paper, 2026. \[[PDF](/files/coverdale_yieldcurves_2026.pdf)\] \[[code](https://github.com/charlescoverdale/yieldcurves)\]
 
 Analyses and decomposes government bond yield curves in R. Fits smooth curves to the handful of bond yields published each day, then reads off rates at any maturity, computes interest-rate risk, and decomposes curve movements into level, slope, and curvature.
