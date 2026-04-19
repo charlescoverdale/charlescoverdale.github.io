@@ -9,10 +9,12 @@ redirect_from:
 
 # G'day, I'm Charles.
 
-I am an economist working on climate, energy, and infrastructure. I am based in London, where I work as an Associate Director in the economics team at [WSP](https://www.wsp.com/).
+I'm an economist working across climate finance, quantitative policy analysis, and infrastructure development.
 
-My work focuses on the commercial and policy edge of the energy transition: carbon markets, REDD+ and biodiversity credits, climate adaptation finance, and the cost-benefit appraisal of low-carbon infrastructure. Typical clients include the UK Government (DESNZ, DEFRA), the European Commission (DG ENV, DG CLIMA), development banks, and ASX-listed corporates.
+I lead economic studies for the UK Government, structure climate adaptation finance for the European Commission, and advise on project finance and feasibility assessments across the energy and agriculture sectors.
 
-Before WSP I was a Director in the Advisory and Investments team at Tenant Advisory (formerly Sayers) in Melbourne, where I was the first hire into the infrastructure and economics team. Prior to that I was in the Economics and Policy team at PwC Strategy&. I studied Economics and Science at the University of Queensland, with exchange semesters at the London School of Economics and Tel Aviv University.
+My technical work spans Green Book compliant impact assessment, scenario analysis, carbon market design, financial modelling, and machine learning forecasting in R and Python. I'm an active R developer with 15+ packages published on [CRAN](https://cran.r-project.org/) covering macroeconomic data, inflation, climate, and predictive modelling.
 
-Outside of client work I build R packages for applied economics, most of which live on [CRAN](https://cran.r-project.org/). I also write occasionally at [charlescoverdale.com](https://charlescoverdale.com) on topics in economics, policy, and the climate transition.
+Before London, I was an early hire at an Australian boutique advisory and investment firm where I helped build the economics and infrastructure practice over four years. Before that, I cut my teeth in strategy consulting at PwC/Strategy&, designing econometric models and geospatial tools for banks, telcos, and Commonwealth agencies.
+
+I taught economics at the University of Queensland and studied development economics at the LSE.
