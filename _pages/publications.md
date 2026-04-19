@@ -9,6 +9,10 @@ Working papers and research articles.
 
 ## 2026
 
+**Coverdale, C.** (2026). *debtkit: Debt Sustainability Analysis and Fiscal Risk Assessment in R.* Working paper, 2026. \[[PDF](/files/coverdale_debtkit_2026.pdf)\] \[[code](https://github.com/charlescoverdale/debtkit)\]
+
+Runs the standard debt sustainability analysis used by the IMF and the European Commission. Projects debt-to-GDP paths, decomposes historical debt changes into interest, growth, primary-balance, and stock-flow contributions, estimates Bohn (1998) fiscal reaction functions, produces stochastic fan charts via Monte Carlo, runs IMF standardised stress tests, and computes European Commission S1 and S2 sustainability gaps.
+
 **Coverdale, C.** (2026). *nowcast: Economic Nowcasting with Bridge Equations and Real-Time Evaluation in R.* Working paper, 2026. \[[PDF](/files/coverdale_nowcast_2026.pdf)\] \[[code](https://github.com/charlescoverdale/nowcast)\]
 
 Estimates GDP and other low-frequency macroeconomic variables in real time, before official figures are released, using higher-frequency monthly indicators. Handles the ragged-edge problem of mixed-frequency data, evaluates nowcast accuracy through pseudo-real-time backtesting, and compares specifications with a Diebold-Mariano test.
