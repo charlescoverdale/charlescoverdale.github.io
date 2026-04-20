@@ -9,10 +9,6 @@ Working papers and research articles.
 
 ## 2026
 
-**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\]
-
-Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects: Kitagawa (2015), Mourifié and Wan (2017), and Frandsen, Lefgren, and Leslie (2023). A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
-
 **Coverdale, C.** (2026). *climatekit: Unified Climate Indices for Temperature, Precipitation, and Drought in R.* Working paper, 2026. \[[PDF](/files/coverdale_climatekit_2026.pdf)\] \[[slides](/files/coverdale_climatekit_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/climatekit/blob/main/paper/rj_submit/climatekit.Rmd)\] \[[code](https://github.com/charlescoverdale/climatekit)\]
 
 Computes standard climate indicators from daily weather data: hot days, cold snaps, droughts, wet spells, growing seasons, and human-comfort measures like wind chill and heat index. Thirty indicators share one simple interface and return tidy tables.
@@ -20,6 +16,10 @@ Computes standard climate indicators from daily weather data: hot days, cold sna
 **Coverdale, C.** (2026). *nowcast: Economic Nowcasting with Bridge Equations and Real-Time Evaluation in R.* Working paper, 2026. \[[PDF](/files/coverdale_nowcast_2026.pdf)\] \[[slides](/files/coverdale_nowcast_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/nowcast/blob/main/paper/rj_submit/nowcast.Rmd)\] \[[code](https://github.com/charlescoverdale/nowcast)\]
 
 Estimates GDP and other headline economic numbers before the official figures are released, using the higher-frequency monthly data that arrives first. Measures how accurate those early estimates turn out to be once the true number lands, and tests whether one forecasting method beats another.
+
+**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\]
+
+Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects. A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
 
 **Coverdale, C.** (2026). *mpshock: An R Package for Cross-Country Monetary Policy Shock Analysis.* Working paper, 2026. \[[PDF](/files/coverdale_mpshock_2026.pdf)\] \[[slides](/files/coverdale_mpshock_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/mpshock/blob/main/paper/rj_submit/mpshock.Rmd)\] \[[code](https://github.com/charlescoverdale/mpshock)\]
 
