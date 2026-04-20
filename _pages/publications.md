@@ -25,7 +25,7 @@ Tests whether an instrumental variable is doing the job we hope it is. Implement
 
 Bundles thirteen datasets of monetary policy surprises, the moments when a central bank decision caught markets off guard, for the United States, United Kingdom, and Australia. Each series loads in one line, carries its source paper with it, and plugs straight into standard R tools for studying how interest-rate shocks ripple through the economy.
 
-**Coverdale, C.** (2026). *inequality: Inequality Measurement, Decomposition, and Poverty Analysis in R.* Working paper, 2026. \[[PDF](/files/coverdale_inequality_2026.pdf)\] \[[slides](/files/coverdale_inequality_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/inequality/blob/main/paper/rj_submit/inequality.Rmd)\] \[[code](https://github.com/charlescoverdale/inequality)\]
+**Coverdale, C.** (2026). *inequality: Inequality Measurement, Decomposition, and Poverty Analysis in R.* Working paper, 2026. \[[PDF](/files/coverdale_inequality_2026.pdf)\] \[[slides](/files/coverdale_inequality_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/inequality/blob/main/paper/rj_submit/inequality.Rmd)\] \[[code](https://github.com/charlescoverdale/inequality)\] \[[CRAN](https://CRAN.R-project.org/package=inequality)\]
 
 Measures income and wealth inequality using every standard yardstick economists use: the Gini coefficient, top income shares, poverty rates, how progressive a tax system is, and more. Works natively with household survey data, respects sampling weights, and breaks results down by region or group so you can see where the gap is actually coming from.
 
