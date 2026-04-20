@@ -17,7 +17,7 @@ Computes standard climate indicators from daily weather data: hot days, cold sna
 
 Estimates GDP and other headline economic numbers before the official figures are released, using the higher-frequency monthly data that arrives first. Measures how accurate those early estimates turn out to be once the true number lands, and tests whether one forecasting method beats another.
 
-**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\]
+**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[slides](/files/coverdale_ivcheck_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\]
 
 Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects. A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
 
