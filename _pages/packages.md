@@ -18,7 +18,7 @@ table th:nth-child(3), table td:nth-child(3) { width: 20%; }
 }
 </style>
 
-I've been an R developer for a decade and have 17 packages for economics and data analysis on [CRAN](https://cran.r-project.org/). Source for all of them is on [GitHub](https://github.com/charlescoverdale).
+I've been an R developer for a decade and have 18 packages for economics and data analysis on [CRAN](https://cran.r-project.org/). Source for all of them is on [GitHub](https://github.com/charlescoverdale).
 
 UK data access
 ======
@@ -56,6 +56,6 @@ Applied analysis
 | [`nowcast`](https://github.com/charlescoverdale/nowcast) | Economic nowcasting, bridge equations | [CRAN](https://cran.r-project.org/package=nowcast) |
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
-| [`inequality`](https://github.com/charlescoverdale/inequality) | Inequality measurement, decomposition, poverty | [GitHub](https://github.com/charlescoverdale/inequality) |
+| [`inequality`](https://github.com/charlescoverdale/inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
 | [`mpshock`](https://github.com/charlescoverdale/mpshock) | Monetary policy shock series (US, UK, Australia) | [GitHub](https://github.com/charlescoverdale/mpshock) |
 | [`ivcheck`](https://github.com/charlescoverdale/ivcheck) | Instrumental variable validity tests (Kitagawa, Mourifie-Wan) | [GitHub](https://github.com/charlescoverdale/ivcheck) |
