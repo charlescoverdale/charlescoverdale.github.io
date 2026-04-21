@@ -57,5 +57,5 @@ Applied analysis
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
 | [`inequality`](https://cran.r-project.org/package=inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
-| [`mpshock`](https://github.com/charlescoverdale/mpshock) | Monetary policy shock series (US, UK, Australia) | [GitHub](https://github.com/charlescoverdale/mpshock) |
+| [`mpshock`](https://cran.r-project.org/package=mpshock) | Monetary policy shock series (US, UK, Australia) | [CRAN](https://cran.r-project.org/package=mpshock) |
 | [`ivcheck`](https://github.com/charlescoverdale/ivcheck) | Instrumental variable validity tests (Kitagawa, Mourifie-Wan) | [GitHub](https://github.com/charlescoverdale/ivcheck) |
