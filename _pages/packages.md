@@ -18,7 +18,7 @@ table th:nth-child(3), table td:nth-child(3) { width: 20%; }
 }
 </style>
 
-I've been an R developer for a decade and have 20+ packages for economics and data analysis on [CRAN](https://cran.r-project.org/). Source for all of them is on [GitHub](https://github.com/charlescoverdale).
+I've been an R developer for a decade and have 20+ packages for economics and data analysis on CRAN. Source for all of them is on [GitHub](https://github.com/charlescoverdale).
 
 UK data access
 ======
