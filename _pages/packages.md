@@ -29,7 +29,7 @@ UK data access
 | [`boe`](https://github.com/charlescoverdale/boe) | Bank of England statistical database | [CRAN](https://cran.r-project.org/package=boe) |
 | [`hmrc`](https://github.com/charlescoverdale/hmrc) | HM Revenue and Customs tax statistics | [CRAN](https://cran.r-project.org/package=hmrc) |
 | [`obr`](https://github.com/charlescoverdale/obr) | Office for Budget Responsibility forecasts | [CRAN](https://cran.r-project.org/package=obr) |
-| [`ukhousing`](https://github.com/charlescoverdale/ukhousing) | UK housing data (Land Registry, EPC, planning) | [GitHub](https://github.com/charlescoverdale/ukhousing) |
+| [`ukhousing`](https://cran.r-project.org/package=ukhousing) | UK housing data (Land Registry, EPC, planning) | [CRAN](https://cran.r-project.org/package=ukhousing) |
 
 International data access
 ======
@@ -42,7 +42,7 @@ International data access
 | [`readnoaa`](https://github.com/charlescoverdale/readnoaa) | NOAA climate data | [CRAN](https://cran.r-project.org/package=readnoaa) |
 | [`readaec`](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission data | [CRAN](https://cran.r-project.org/package=readaec) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
-| [`carbondata`](https://github.com/charlescoverdale/carbondata) | Carbon market data (ETS, voluntary registries) | [GitHub](https://github.com/charlescoverdale/carbondata) |
+| [`carbondata`](https://cran.r-project.org/package=carbondata) | Carbon market data (ETS, voluntary registries) | [CRAN](https://cran.r-project.org/package=carbondata) |
 
 Applied analysis
 ======
