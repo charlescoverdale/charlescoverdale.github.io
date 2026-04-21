@@ -9,12 +9,16 @@ redirect_from:
 
 # G'day, I'm Charles.
 
-I'm an economist working across climate finance, quantitative policy analysis, and infrastructure development.
+I'm an economist based in London working on climate finance, infrastructure development, and public policy.
 
-I lead economic studies for the UK Government, structure climate adaptation finance for the European Commission, and advise on project finance and feasibility assessments across the energy and agriculture sectors.
+I'm currently leading economic studies for the UK Government and European Commission, including as the climate finance lead for the Mission Implementation Platform on Adaptation.
 
-My technical work spans Green Book compliant impact assessment, scenario analysis, carbon market design, financial modelling, and machine learning forecasting in R and Python. I'm an active R developer with 15+ packages published on [CRAN](https://cran.r-project.org/) covering macroeconomic data, inflation, climate, and predictive modelling.
+My technical work spans the energy and agricultural sectors, including project development, feasibility studies, evaluations, financial modelling, project finance, and market design.
 
-Before London, I was an early hire at an Australian boutique advisory and investment firm where I helped build the economics and infrastructure practice over four years. Before that, I cut my teeth in strategy consulting at PwC/Strategy&, designing econometric models and geospatial tools for banks, telcos, and Commonwealth agencies.
+I'm also an active R developer with 20+ packages published on CRAN covering macroeconomic data, climate, and predictive modelling.
 
-I taught economics at the University of Queensland and studied development economics at the LSE.
+Before London, I was an early hire at an Australian boutique advisory and investment firm where I helped build the economics and infrastructure practice from scratch.
+
+Before that, I cut my teeth in strategy and economic consulting at PwC/Strategy&, designing econometric models and geospatial tools for public and private clients.
+
+Before that, I studied and tutored economics at the University of Queensland in Australia. During my BEcon/BSc I completed subjects abroad in the UK (at the London School of Economics), Israel, and Hong Kong.
