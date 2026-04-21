@@ -21,7 +21,7 @@ Estimates GDP and other headline economic numbers before the official figures ar
 
 Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects. A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
 
-**Coverdale, C.** (2026). *mpshock: An R Package for Cross-Country Monetary Policy Shock Analysis.* Working paper, 2026. \[[PDF](/files/coverdale_mpshock_2026.pdf)\] \[[slides](/files/coverdale_mpshock_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/mpshock/blob/main/paper/rj_submit/mpshock.Rmd)\] \[[code](https://github.com/charlescoverdale/mpshock)\]
+**Coverdale, C.** (2026). *mpshock: An R Package for Cross-Country Monetary Policy Shock Analysis.* Working paper, 2026. \[[PDF](/files/coverdale_mpshock_2026.pdf)\] \[[slides](/files/coverdale_mpshock_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/mpshock/blob/main/paper/rj_submit/mpshock.Rmd)\] \[[code](https://github.com/charlescoverdale/mpshock)\] \[[CRAN](https://CRAN.R-project.org/package=mpshock)\]
 
 Bundles thirteen datasets of monetary policy surprises, the moments when a central bank decision caught markets off guard, for the United States, United Kingdom, and Australia. Each series loads in one line, carries its source paper with it, and plugs straight into standard R tools for studying how interest-rate shocks ripple through the economy.
 
