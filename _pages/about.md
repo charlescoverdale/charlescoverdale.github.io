@@ -21,4 +21,4 @@ Before London, I was an early hire at an Australian boutique advisory and invest
 
 Before that, I cut my teeth in strategy and economic consulting at PwC/Strategy&, designing econometric models and geospatial tools for public and private clients.
 
-Before that, I studied and tutored economics at the University of Queensland in Australia. During my BEcon/BSc I completed subjects abroad in the UK (at the London School of Economics), Israel, and Hong Kong.
+Before that, I studied and tutored economics at the University of Queensland in Australia. During my BEcon/BSc I studied and researched in the UK (at the London School of Economics), Israel, and Hong Kong.
