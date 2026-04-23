@@ -36,11 +36,14 @@ International data access
 
 | Package | Description | Link |
 |---|---|---|
-| [`readecb`](https://github.com/charlescoverdale/readecb) | European Central Bank Data Portal | [CRAN](https://cran.r-project.org/package=readecb) |
-| [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
 | [`fred`](https://github.com/charlescoverdale/fred) | Federal Reserve Economic Data | [CRAN](https://cran.r-project.org/package=fred) |
 | [`readnoaa`](https://github.com/charlescoverdale/readnoaa) | NOAA climate data | [CRAN](https://cran.r-project.org/package=readnoaa) |
+| [`readecb`](https://github.com/charlescoverdale/readecb) | European Central Bank Data Portal | [CRAN](https://cran.r-project.org/package=readecb) |
 | [`readaec`](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission data | [CRAN](https://cran.r-project.org/package=readaec) |
+| [`ato`](https://github.com/charlescoverdale/ato) | Australian Taxation Office | [GitHub](https://github.com/charlescoverdale/ato) |
+| [`aemo`](https://github.com/charlescoverdale/aemo) | Australian Energy Market Operator | [GitHub](https://github.com/charlescoverdale/aemo) |
+| [`cer`](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | [GitHub](https://github.com/charlescoverdale/cer) |
+| [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
 | [`carbondata`](https://cran.r-project.org/package=carbondata) | Carbon market data (ETS, voluntary registries) | [CRAN](https://cran.r-project.org/package=carbondata) |
 
@@ -49,13 +52,13 @@ Applied analysis
 
 | Package | Description | Link |
 |---|---|---|
-| [`inflateR`](https://github.com/charlescoverdale/inflateR) | Currency and inflation adjustment | [CRAN](https://cran.r-project.org/package=inflateR) |
-| [`inflationkit`](https://github.com/charlescoverdale/inflationkit) | CPI decomposition, core measures, Phillips curve | [CRAN](https://cran.r-project.org/package=inflationkit) |
-| [`debtkit`](https://github.com/charlescoverdale/debtkit) | Debt sustainability analysis | [CRAN](https://cran.r-project.org/package=debtkit) |
-| [`yieldcurves`](https://github.com/charlescoverdale/yieldcurves) | Yield curve fitting, carry, PCA, duration | [CRAN](https://cran.r-project.org/package=yieldcurves) |
 | [`nowcast`](https://github.com/charlescoverdale/nowcast) | Economic nowcasting, bridge equations | [CRAN](https://cran.r-project.org/package=nowcast) |
-| [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
-| [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
-| [`inequality`](https://cran.r-project.org/package=inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
+| [`inflationkit`](https://github.com/charlescoverdale/inflationkit) | CPI decomposition, core measures, Phillips curve | [CRAN](https://cran.r-project.org/package=inflationkit) |
+| [`inflateR`](https://github.com/charlescoverdale/inflateR) | Currency and inflation adjustment | [CRAN](https://cran.r-project.org/package=inflateR) |
 | [`mpshock`](https://cran.r-project.org/package=mpshock) | Monetary policy shock series (US, UK, Australia) | [CRAN](https://cran.r-project.org/package=mpshock) |
+| [`yieldcurves`](https://github.com/charlescoverdale/yieldcurves) | Yield curve fitting, carry, PCA, duration | [CRAN](https://cran.r-project.org/package=yieldcurves) |
+| [`debtkit`](https://github.com/charlescoverdale/debtkit) | Debt sustainability analysis | [CRAN](https://cran.r-project.org/package=debtkit) |
+| [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
+| [`inequality`](https://cran.r-project.org/package=inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
+| [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
 | [`ivcheck`](https://github.com/charlescoverdale/ivcheck) | Instrumental variable validity tests (Kitagawa, Mourifie-Wan, FLL) | [CRAN](https://cran.r-project.org/package=ivcheck) |
