@@ -1,0 +1,70 @@
+# Charles Coverdale
+
+> Economist based in London. Author of 22 R packages on CRAN for UK, US, EU, and Australian government data, plus applied analysis tools (inequality, inflation, yield curves, conformal prediction, climate indices). Interests: climate and energy, macroeconomics, public policy, infrastructure.
+
+- GitHub: https://github.com/charlescoverdale
+- Site: https://charlescoverdale.github.io
+- Substack: https://charlescoverdale.com
+- Contact: charles.f.coverdale@gmail.com
+
+Each R package below ships an `llms-full.txt` with full signatures, arguments, return types, and runnable examples at:
+`https://raw.githubusercontent.com/charlescoverdale/{package}/main/llms-full.txt`
+
+pkgdown reference site at:
+`https://charlescoverdale.github.io/{package}/`
+
+## R packages: data access
+
+Fetches live data from official sources. All on CRAN.
+
+- [ons](https://github.com/charlescoverdale/ons): UK Office for National Statistics (GDP, CPI, unemployment, wages, trade, retail, house prices, public finances, productivity, population)
+- [boe](https://github.com/charlescoverdale/boe): Bank of England (policy rates, bond yields, gilt curves, money supply, lending rates)
+- [hmrc](https://github.com/charlescoverdale/hmrc): HM Revenue and Customs (tax receipts, corporation tax, VAT, income tax, duties, R&D credits)
+- [obr](https://github.com/charlescoverdale/obr): Office for Budget Responsibility (fiscal forecasts, macro projections, long-term sustainability)
+- [ukhousing](https://github.com/charlescoverdale/ukhousing): UK Land Registry HPI, Price Paid Data, EPC ratings, planning, PIPR
+- [fred](https://github.com/charlescoverdale/fred): US Federal Reserve FRED (full series plus ALFRED real-time vintages)
+- [readecb](https://github.com/charlescoverdale/readecb): European Central Bank (rates, HICP, exchange rates, monetary aggregates, yield curves)
+- [readnoaa](https://github.com/charlescoverdale/readnoaa): NOAA NCEI daily weather station observations (no API key required)
+- [readoecd](https://github.com/charlescoverdale/readoecd): OECD cross-country economic and social indicators
+- [comtrade](https://github.com/charlescoverdale/comtrade): UN Comtrade bilateral trade flows with RCA, HHI, and trade balance analysis
+- [mpshock](https://github.com/charlescoverdale/mpshock): 13 curated monetary policy shock series across US, UK, and AU
+- [carbondata](https://github.com/charlescoverdale/carbondata): ETS and voluntary carbon markets (EU, UK, RGGI, California, Verra, Gold Standard)
+- [inflateR](https://github.com/charlescoverdale/inflateR): Currency conversion and CPI utilities across countries
+
+## R packages: applied analysis
+
+Pure computation, no network access required. Good for analysis on any data frame.
+
+- [climatekit](https://github.com/charlescoverdale/climatekit): 35 climate indices from daily weather (frost days, SPI/SPEI drought, growing degree days, Huglin, heat index, fire danger)
+- [inequality](https://github.com/charlescoverdale/inequality): Gini, Theil, Atkinson, Palma, poverty (FGT, Sen), concentration index, growth incidence, polarisation
+- [inflationkit](https://github.com/charlescoverdale/inflationkit): Core inflation, persistence, Phillips curve, sticky/flexible decomposition, forecast evaluation
+- [yieldcurves](https://github.com/charlescoverdale/yieldcurves): Nelson-Siegel, Svensson, carry, rolldown, z-spread, duration, PCA factor decomposition
+- [debtkit](https://github.com/charlescoverdale/debtkit): Debt sustainability analysis, Bohn test, fan charts, IMF-style stress tests, EC S1/S2 gaps
+- [nowcast](https://github.com/charlescoverdale/nowcast): Bridge equations, mixed-frequency alignment, ragged edge handling, forecast backtesting
+- [predictset](https://github.com/charlescoverdale/predictset): Conformal prediction (regression, classification, Mondrian, weighted, adaptive conformal inference)
+- [ivcheck](https://github.com/charlescoverdale/ivcheck): Instrumental-variable validity tests (Kitagawa, Mourifie-Wan, Frandsen-Lefgren-Leslie)
+
+## AI and Claude Code skills
+
+- [econstack](https://github.com/charlescoverdale/econstack): 11 slash-command skills for economic analysis (cost-benefit, business case, regulatory impact, fiscal briefing, market research, input-output, briefing notes, audit)
+- [buildRpackage](https://github.com/charlescoverdale/buildRpackage): Full CRAN submission workflow as a Claude Code skill, capturing package ideation, naming, scaffolding, pre-flight, submission, and resubmission patterns
+
+## Quick start for agents
+
+Install any package from CRAN and call it directly:
+
+```r
+install.packages("ons")
+library(ons)
+gdp <- ons_gdp(measure = "level", from = "2020-01-01")
+```
+
+For the full API of any package, fetch its `llms-full.txt`. For example:
+
+```
+curl https://raw.githubusercontent.com/charlescoverdale/ons/main/llms-full.txt
+```
+
+## About
+
+8+ years in economic advisory (Ricardo/WSP, Tenant Advisory, PwC Strategy&). Sectors: energy, infrastructure, agriculture, financial services. Frameworks: HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, Australian Treasury. Work covers decarbonisation, climate finance, carbon markets, biodiversity credits, and climate adaptation.
