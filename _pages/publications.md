@@ -17,10 +17,6 @@ Computes standard climate indicators from daily weather data: hot days, cold sna
 
 Estimates GDP and other headline economic numbers before the official figures are released, using the higher-frequency monthly data that arrives first. Measures how accurate those early estimates turn out to be once the true number lands, and tests whether one forecasting method beats another.
 
-**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[slides](/files/coverdale_ivcheck_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\] \[[CRAN](https://CRAN.R-project.org/package=ivcheck)\]
-
-Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects. A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
-
 **Coverdale, C.** (2026). *mpshock: An R Package for Cross-Country Monetary Policy Shock Analysis.* Working paper, 2026. \[[PDF](/files/coverdale_mpshock_2026.pdf)\] \[[slides](/files/coverdale_mpshock_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/mpshock/blob/main/paper/rj_submit/mpshock.Rmd)\] \[[code](https://github.com/charlescoverdale/mpshock)\] \[[CRAN](https://CRAN.R-project.org/package=mpshock)\]
 
 Bundles thirteen datasets of monetary policy surprises, the moments when a central bank decision caught markets off guard, for the United States, United Kingdom, and Australia. Each series loads in one line, carries its source paper with it, and plugs straight into standard R tools for studying how interest-rate shocks ripple through the economy.
@@ -28,6 +24,10 @@ Bundles thirteen datasets of monetary policy surprises, the moments when a centr
 **Coverdale, C.** (2026). *inequality: Inequality Measurement, Decomposition, and Poverty Analysis in R.* Working paper, 2026. \[[PDF](/files/coverdale_inequality_2026.pdf)\] \[[slides](/files/coverdale_inequality_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/inequality/blob/main/paper/rj_submit/inequality.Rmd)\] \[[code](https://github.com/charlescoverdale/inequality)\] \[[CRAN](https://CRAN.R-project.org/package=inequality)\]
 
 Measures income and wealth inequality using every standard yardstick economists use: the Gini coefficient, top income shares, poverty rates, how progressive a tax system is, and more. Works natively with household survey data, respects sampling weights, and breaks results down by region or group so you can see where the gap is actually coming from.
+
+**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[slides](/files/coverdale_ivcheck_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\] \[[CRAN](https://CRAN.R-project.org/package=ivcheck)\]
+
+Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects. A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
 
 **Coverdale, C.** (2026). *debtkit: Debt Sustainability Analysis and Fiscal Risk Assessment in R.* Working paper, 2026. \[[PDF](/files/coverdale_debtkit_2026.pdf)\] \[[slides](/files/coverdale_debtkit_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/debtkit/blob/main/paper/rj_submit/debtkit.Rmd)\] \[[code](https://github.com/charlescoverdale/debtkit)\] \[[CRAN](https://CRAN.R-project.org/package=debtkit)\]
 
@@ -44,3 +44,7 @@ Turns the handful of government bond yields published each day into a smooth cur
 **Coverdale, C.** (2026). *predictset: Conformal Prediction and Uncertainty Quantification in R.* Working paper, 2026. \[[PDF](/files/coverdale_predictset_2026.pdf)\] \[[slides](/files/coverdale_predictset_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/predictset/blob/main/paper/rj_submit/predictset.Rmd)\] \[[code](https://github.com/charlescoverdale/predictset)\] \[[CRAN](https://CRAN.R-project.org/package=predictset)\]
 
 Puts a trustworthy uncertainty band around any prediction model. If the model predicts a number, you get a plausible range that is mathematically guaranteed to contain the true answer 90 per cent, or 95 per cent, of the time. If the model predicts a category, you get a short list of likely answers carrying the same guarantee. Works with any model, no matter how complex.
+
+**Coverdale, C.** (2026). *inflationkit: Inflation Dynamics, Decomposition, and Phillips Curve Analysis in R.* Working paper, 2026. \[[PDF](/files/coverdale_inflationkit_2026.pdf)\] \[[slides](/files/coverdale_inflationkit_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/inflationkit/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/inflationkit)\] \[[CRAN](https://CRAN.R-project.org/package=inflationkit)\]
+
+Measures inflation the way central banks do. Breaks headline CPI into components, builds trimmed-mean and weighted-median core measures that strip out volatile items, estimates how persistent inflation is, fits a Phillips curve linking slack in the economy to price growth, and scores how well past forecasts actually predicted inflation. Works with any country's CPI data and returns tidy output.
