@@ -40,9 +40,9 @@ International data access
 | [`readnoaa`](https://github.com/charlescoverdale/readnoaa) | NOAA climate data | [CRAN](https://cran.r-project.org/package=readnoaa) |
 | [`readecb`](https://github.com/charlescoverdale/readecb) | European Central Bank Data Portal | [CRAN](https://cran.r-project.org/package=readecb) |
 | [`readaec`](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission data | [CRAN](https://cran.r-project.org/package=readaec) |
-| [`ato`](https://github.com/charlescoverdale/ato) | Australian Taxation Office | [GitHub](https://github.com/charlescoverdale/ato) |
-| [`aemo`](https://github.com/charlescoverdale/aemo) | Australian Energy Market Operator | [GitHub](https://github.com/charlescoverdale/aemo) |
-| [`cer`](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | [GitHub](https://github.com/charlescoverdale/cer) |
+| [`ato`](https://github.com/charlescoverdale/ato) | Australian Taxation Office | [CRAN](https://cran.r-project.org/package=ato) |
+| [`aemo`](https://github.com/charlescoverdale/aemo) | Australian Energy Market Operator | [CRAN](https://cran.r-project.org/package=aemo) |
+| [`cer`](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | [CRAN](https://cran.r-project.org/package=cer) |
 | [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
 | [`carbondata`](https://cran.r-project.org/package=carbondata) | Carbon market data (ETS, voluntary registries) | [CRAN](https://cran.r-project.org/package=carbondata) |
