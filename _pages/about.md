@@ -15,7 +15,7 @@ I'm currently leading economic studies for the UK Government and European Commis
 
 My technical work spans the energy and agricultural sectors, including project development, feasibility studies, evaluations, financial modelling, project finance, and market design.
 
-I'm also an active R developer with 20+ packages published on CRAN covering macroeconomic data, climate, and predictive modelling.
+I'm also an active R developer with 25+ packages published on CRAN covering macroeconomic data, climate, and predictive modelling.
 
 Before London, I was an early hire at an Australian boutique advisory and investment firm where I helped build the economics and infrastructure practice from scratch.
 

@@ -18,7 +18,7 @@ table th:nth-child(3), table td:nth-child(3) { width: 20%; }
 }
 </style>
 
-I've been an R developer for a decade and have 20+ packages for economics and data analysis on CRAN. Source for all of them is on [GitHub](https://github.com/charlescoverdale).
+I've been an R developer for a decade and have 25+ packages for economics and data analysis on CRAN. Source for all of them is on [GitHub](https://github.com/charlescoverdale).
 
 UK data access
 ======
@@ -58,7 +58,7 @@ Applied analysis
 | [`mpshock`](https://cran.r-project.org/package=mpshock) | Monetary policy shock series (US, UK, Australia) | [CRAN](https://cran.r-project.org/package=mpshock) |
 | [`yieldcurves`](https://github.com/charlescoverdale/yieldcurves) | Yield curve fitting, carry, PCA, duration | [CRAN](https://cran.r-project.org/package=yieldcurves) |
 | [`debtkit`](https://github.com/charlescoverdale/debtkit) | Debt sustainability analysis | [CRAN](https://cran.r-project.org/package=debtkit) |
-| [`greenbook`](https://github.com/charlescoverdale/greenbook) | HM Treasury Green Book cost-benefit analysis primitives | [GitHub](https://github.com/charlescoverdale/greenbook) |
+| [`greenbook`](https://github.com/charlescoverdale/greenbook) | HM Treasury Green Book cost-benefit analysis primitives | [CRAN](https://cran.r-project.org/package=greenbook) |
 | [`magentabook`](https://github.com/charlescoverdale/magentabook) | HM Treasury Magenta Book policy evaluation primitives | [GitHub](https://github.com/charlescoverdale/magentabook) |
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`inequality`](https://cran.r-project.org/package=inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
