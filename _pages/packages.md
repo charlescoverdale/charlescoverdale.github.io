@@ -59,7 +59,7 @@ Applied analysis
 | [`yieldcurves`](https://github.com/charlescoverdale/yieldcurves) | Yield curve fitting, carry, PCA, duration | [CRAN](https://cran.r-project.org/package=yieldcurves) |
 | [`debtkit`](https://github.com/charlescoverdale/debtkit) | Debt sustainability analysis | [CRAN](https://cran.r-project.org/package=debtkit) |
 | [`greenbook`](https://github.com/charlescoverdale/greenbook) | HM Treasury Green Book cost-benefit analysis primitives | [CRAN](https://cran.r-project.org/package=greenbook) |
-| [`magentabook`](https://github.com/charlescoverdale/magentabook) | HM Treasury Magenta Book policy evaluation primitives | [GitHub](https://github.com/charlescoverdale/magentabook) |
+| [`magentabook`](https://github.com/charlescoverdale/magentabook) | HM Treasury Magenta Book policy evaluation primitives | [CRAN](https://cran.r-project.org/package=magentabook) |
 | [`climatekit`](https://github.com/charlescoverdale/climatekit) | 35 climate indices | [CRAN](https://cran.r-project.org/package=climatekit) |
 | [`inequality`](https://cran.r-project.org/package=inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
