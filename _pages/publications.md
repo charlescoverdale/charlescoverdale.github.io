@@ -11,7 +11,7 @@ Working papers and research articles.
 
 **Coverdale, C.** (2026). *Comparing Theoretical and Observed AI Exposure: Evidence from the Anthropic Economic Index for the United Kingdom.* Working paper, 2026. \[[PDF](/files/coverdale_uk_ai_exposure_2026.pdf)\] \[[CRAN](https://CRAN.R-project.org/package=aieconindex)\]
 
-Joins the Anthropic Economic Index's UK Claude usage shares with UK employment by occupation, and compares the resulting employment-weighted exposure index against Felten, Raj, and Seamans (2021). The Spearman rank correlation between actual UK Claude usage exposure and Felten's theoretical Language Modeling AIOE is 0.35 across fifteen matched occupational groups. Computer and Mathematical occupations rank first by actual usage but sixth by Felten; Legal occupations rank first by Felten but eleventh by actual usage. The existing AI exposure literature is mis-predicting which UK occupations are using Claude most heavily.
+Joins the Anthropic Economic Index's UK Claude usage shares with UK employment by occupation, and compares the resulting employment-weighted exposure index against Felten, Raj, and Seamans (2021). The existing AI exposure literature is mis-predicting which UK occupations are using Claude most heavily.
 
 **Coverdale, C.** (2026). *climatekit: Unified Climate Indices for Temperature, Precipitation, and Drought in R.* Working paper, 2026. \[[PDF](/files/coverdale_climatekit_2026.pdf)\] \[[slides](/files/coverdale_climatekit_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/climatekit/blob/main/paper/rj_submit/climatekit.Rmd)\] \[[code](https://github.com/charlescoverdale/climatekit)\] \[[CRAN](https://CRAN.R-project.org/package=climatekit)\]
 
