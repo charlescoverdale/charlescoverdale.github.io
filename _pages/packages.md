@@ -46,6 +46,7 @@ International data access
 | [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
 | [`carbondata`](https://cran.r-project.org/package=carbondata) | Carbon market data (ETS, voluntary registries) | [CRAN](https://cran.r-project.org/package=carbondata) |
+| [`aieconindex`](https://github.com/charlescoverdale/aieconindex) | Anthropic Economic Index (Claude usage by occupation and task) | [CRAN](https://cran.r-project.org/package=aieconindex) |
 
 Applied analysis
 ======
