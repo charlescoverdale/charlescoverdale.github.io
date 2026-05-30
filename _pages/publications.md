@@ -29,7 +29,7 @@ Bundles thirteen datasets of monetary policy surprises, the moments when a centr
 
 Measures income and wealth inequality using every standard yardstick economists use: the Gini coefficient, top income shares, poverty rates, how progressive a tax system is, and more. Works natively with household survey data, respects sampling weights, and breaks results down by region or group so you can see where the gap is actually coming from.
 
-**Coverdale, C.** (2026). *ivcheck: Tests of Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[slides](/files/coverdale_ivcheck_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\] \[[CRAN](https://CRAN.R-project.org/package=ivcheck)\]
+**Coverdale, C.** (2026). *ivcheck: Tests for Instrumental Variable Validity in R.* Working paper, 2026. \[[PDF](/files/coverdale_ivcheck_2026.pdf)\] \[[slides](/files/coverdale_ivcheck_slides_2026.pdf)\] \[[markdown](https://github.com/charlescoverdale/ivcheck/blob/main/paper/rj/paper.Rmd)\] \[[code](https://github.com/charlescoverdale/ivcheck)\] \[[CRAN](https://CRAN.R-project.org/package=ivcheck)\]
 
 Tests whether an instrumental variable is doing the job we hope it is. Implements three published falsification tests for the identifying assumptions behind local average treatment effects. A one-shot wrapper inspects a fitted IV model, picks the applicable tests, and returns a tidy verdict table.
 
