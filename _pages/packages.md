@@ -44,6 +44,7 @@ International data access
 | [`aemo`](https://github.com/charlescoverdale/aemo) | Australian Energy Market Operator | [CRAN](https://cran.r-project.org/package=aemo) |
 | [`cer`](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | [CRAN](https://cran.r-project.org/package=cer) |
 | [`readoecd`](https://github.com/charlescoverdale/readoecd) | OECD statistics | [CRAN](https://cran.r-project.org/package=readoecd) |
+| [`readimf`](https://github.com/charlescoverdale/readimf) | International Monetary Fund data (World Economic Outlook, IFS) | [CRAN](https://cran.r-project.org/package=readimf) |
 | [`comtrade`](https://github.com/charlescoverdale/comtrade) | UN Comtrade international trade flows | [CRAN](https://cran.r-project.org/package=comtrade) |
 | [`carbondata`](https://cran.r-project.org/package=carbondata) | Carbon market data (ETS, voluntary registries) | [CRAN](https://cran.r-project.org/package=carbondata) |
 | [`aieconindex`](https://github.com/charlescoverdale/aieconindex) | Anthropic Economic Index (Claude usage by occupation and task) | [CRAN](https://cran.r-project.org/package=aieconindex) |

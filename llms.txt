@@ -26,6 +26,7 @@ Fetches live data from official sources. All on CRAN.
 - [readecb](https://github.com/charlescoverdale/readecb): European Central Bank (rates, HICP, exchange rates, monetary aggregates, yield curves)
 - [readnoaa](https://github.com/charlescoverdale/readnoaa): NOAA NCEI daily weather station observations (no API key required)
 - [readoecd](https://github.com/charlescoverdale/readoecd): OECD cross-country economic and social indicators
+- [readimf](https://github.com/charlescoverdale/readimf): International Monetary Fund via the SDMX 3.0 API (World Economic Outlook with vintages, retired-IFS migration crosswalk, COFER reserves, commodity prices, government finance)
 - [comtrade](https://github.com/charlescoverdale/comtrade): UN Comtrade bilateral trade flows with RCA, HHI, and trade balance analysis
 - [mpshock](https://github.com/charlescoverdale/mpshock): 13 curated monetary policy shock series across US, UK, and AU
 - [carbondata](https://github.com/charlescoverdale/carbondata): ETS and voluntary carbon markets (EU, UK, RGGI, California, Verra, Gold Standard)
