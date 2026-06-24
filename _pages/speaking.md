@@ -5,7 +5,7 @@ permalink: /speaking/
 author_profile: true
 ---
 
-Selected conference and public talks on climate finance, adaptation, and economics.
+Selected conference and public talks on economics, climate finance, and infrastructure.
 
 ## 2026
 
