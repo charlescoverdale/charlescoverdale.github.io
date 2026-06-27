@@ -15,7 +15,7 @@ European Urban Resilience Forum (EURESFO) - Guimarães, Portugal
 *EU Institutions and Adaptation Finance*<br>
 Climate Chance Europe Summit - Brussels, Belgium
 
-*PPPs in Adaptation Projects*<br>
+*PPPs in Adaptation Projects* ([link](https://www.linkedin.com/posts/charlescoverdale_last-week-in-brussels-i-spoke-at-climate-share-7469718716629397504-Wg0K/))<br>
 Climate Chance Europe Summit - Brussels, Belgium
 
 ## 2025
