@@ -10,25 +10,20 @@ Selected conference and public talks on economics, climate finance, and infrastr
 ## 2026
 
 *Financing Nature-Based Solutions on Private Land*<br>
-European Urban Resilience Forum (EURESFO)<br>
-Guimarães, Portugal
+European Urban Resilience Forum (EURESFO) - Guimarães, Portugal
 
 *EU Institutions and Adaptation Finance*<br>
-Climate Chance Europe Summit<br>
-Brussels, Belgium
+Climate Chance Europe Summit - Brussels, Belgium
 
 *PPPs in Adaptation Projects*<br>
-Climate Chance Europe Summit<br>
-Brussels, Belgium
+Climate Chance Europe Summit - Brussels, Belgium
 
 ## 2025
 
 *Inconvenient Truths in Climate Finance*<br>
-London Climate Action Week<br>
-London, United Kingdom
+London Climate Action Week - London, United Kingdom
 
 ## 2023
 
 *Is Crypto Money?*<br>
-Economic Society of Australia Annual Conference<br>
-Hobart, Australia
+Economic Society of Australia Annual Conference - Hobart, Australia
