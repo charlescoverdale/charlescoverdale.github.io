@@ -20,7 +20,7 @@ Climate Chance Europe Summit - Brussels, Belgium
 
 ## 2025
 
-*Inconvenient Truths in Climate Finance*<br>
+*Inconvenient Truths in Climate Finance* ([link](https://www.linkedin.com/posts/charlescoverdale_climate-economics-share-7343190596724977666-WkhF/))<br>
 London Climate Action Week - London, United Kingdom
 
 ## 2023
