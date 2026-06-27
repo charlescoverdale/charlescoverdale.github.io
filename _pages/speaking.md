@@ -9,7 +9,7 @@ Selected conference and public talks on economics, climate finance, and infrastr
 
 ## 2026
 
-*Financing Nature-Based Solutions on Private Land*<br>
+*Financing Nature-Based Solutions on Private Land* ([link](https://www.linkedin.com/posts/charlescoverdale_euresfo-ugcPost-7473038985767034880-Hrap/))<br>
 European Urban Resilience Forum (EURESFO) - Guimarães, Portugal
 
 *EU Institutions and Adaptation Finance* ([link](https://www.linkedin.com/posts/charlescoverdale_last-week-in-brussels-i-spoke-at-climate-share-7469718716629397504-Wg0K/))<br>
