@@ -23,7 +23,7 @@ Climate Chance Europe Summit - Brussels, Belgium
 *Inconvenient Truths in Climate Finance* ([link](https://www.linkedin.com/posts/charlescoverdale_climate-economics-share-7343190596724977666-WkhF/))<br>
 London Climate Action Week - London, United Kingdom
 
-## 2023
+## 2022
 
-*Is Crypto Money?*<br>
+*Is Crypto Money?* ([link](https://www.linkedin.com/posts/charlescoverdale_ace2022-youngeconomists-cryptocurrencies-activity-6953249089476075520-Uklm))<br>
 Economic Society of Australia Annual Conference - Hobart, Australia
