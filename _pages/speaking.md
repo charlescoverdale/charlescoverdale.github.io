@@ -9,8 +9,7 @@ Selected conference and public talks on economics, climate finance, and infrastr
 
 ## 2026
 
-<!-- TODO: add link -->
-*Public Private Partnerships (PPPs) for Grid Transmission Infrastructure*<br>
+*Public Private Partnerships (PPPs) for Grid Transmission Infrastructure* ([link](https://www.linkedin.com/posts/charlescoverdale_energy-transmission-infrastructure-ugcPost-7486004741500715009-bM5m/))<br>
 UKPACT Capacity Building Programme on Grid Finance Mechanisms - Putrajaya, Malaysia
 
 *Financing Nature-Based Solutions on Private Land* ([link](https://www.linkedin.com/posts/charlescoverdale_euresfo-ugcPost-7473038985767034880-Hrap/))<br>
