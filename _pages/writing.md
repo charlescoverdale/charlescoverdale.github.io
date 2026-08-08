@@ -10,6 +10,7 @@ I write at [Tangentially Economics](https://charlescoverdale.com) on Substack.
 Economics
 ======
 
+- [On the lump of labour fallacy](https://www.charlescoverdale.com/p/the-lump-of-labour-trap)
 - [We need to talk about K](https://www.charlescoverdale.com/p/we-need-to-talk-about-k)
 - [Coase vs AI](https://www.charlescoverdale.com/p/coase-vs-ai)
 - [Hold your recession horses](https://www.charlescoverdale.com/p/hold-your-recession-horses)
@@ -37,6 +38,7 @@ Climate
 Reading notes
 ======
 
+- [Reading note: Our Lives in Their Portfolios](https://www.charlescoverdale.com/p/reading-note-our-lives-in-their-portfolios)
 - [Reading note: The Land Trap](https://www.charlescoverdale.com/p/reading-note-the-land-trap)
 - [Reading note: Head North](https://www.charlescoverdale.com/p/reading-note-head-north)
 - [Reading note: Everything is Predictable](https://www.charlescoverdale.com/p/reading-note-everything-is-predictable)
