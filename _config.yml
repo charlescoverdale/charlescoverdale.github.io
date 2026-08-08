@@ -202,7 +202,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections - kept defined so template includes do not break, but unused
+# Collections. `publications` is live: each paper gets its own URL so that
+# Google Scholar has one parseable record per paper (see _includes/scholar-meta.html).
+# The rest are kept defined so template includes do not break.
 collections:
   teaching:
     output: true
@@ -258,6 +260,13 @@ defaults:
       author_profile: true
       share: true
       comment: false
+  # Keep slide decks out of the sitemap. They have no abstract and no
+  # bibliography, so they are noise for the Google Scholar crawler, which
+  # should be spending its time on the paper PDFs and the per-paper pages.
+  - scope:
+      path: "files/*_slides_*.pdf"
+    values:
+      sitemap: false
   - scope:
       path: ""
       type: talks
