@@ -4,11 +4,11 @@ main:
   - title: "Writing"
     url: /writing/
 
+  - title: "Speaking"
+    url: /speaking/
+
   - title: "Packages"
     url: /packages/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Speaking"
-    url: /speaking/
