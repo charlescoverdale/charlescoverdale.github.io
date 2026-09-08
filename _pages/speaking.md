@@ -9,6 +9,9 @@ Selected conference and public talks on economics, climate finance, and infrastr
 
 ## 2026
 
+*ASEAN Infrastructure Project Development Training* ([link](https://lnkd.in/p/enW2FMXt))<br>
+European Commission SCOPE-IF Training Programme - Manila, Philippines
+
 *Public Private Partnerships (PPPs) for Grid Transmission Infrastructure* ([link](https://www.linkedin.com/posts/charlescoverdale_energy-transmission-infrastructure-ugcPost-7486004741500715009-bM5m/))<br>
 UKPACT Capacity Building Programme on Grid Finance Mechanisms - Putrajaya, Malaysia
 
