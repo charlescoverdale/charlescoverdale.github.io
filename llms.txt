@@ -1,6 +1,6 @@
 # Charles Coverdale
 
-> Economist based in London. Author of 22 R packages on CRAN for UK, US, EU, and Australian government data, plus applied analysis tools (inequality, inflation, yield curves, conformal prediction, climate indices). Interests: climate and energy, macroeconomics, public policy, infrastructure.
+> Economist based in London. Author of 30 R packages on CRAN: data access for UK, US, EU, Australian, and international statistics, plus applied analysis tools (cost-benefit analysis, policy evaluation, LLM evaluation statistics, inequality, inflation, yield curves, conformal prediction, climate indices). Works on climate, finance, and infrastructure.
 
 - GitHub: https://github.com/charlescoverdale
 - Site: https://charlescoverdale.github.io
@@ -10,12 +10,12 @@
 Each R package below ships an `llms-full.txt` with full signatures, arguments, return types, and runnable examples at:
 `https://raw.githubusercontent.com/charlescoverdale/{package}/main/llms-full.txt`
 
-pkgdown reference site at:
+pkgdown reference site (all except greenbook, magentabook, readimf, and aieconindex) at:
 `https://charlescoverdale.github.io/{package}/`
 
 ## R packages: data access
 
-Fetches live data from official sources. All on CRAN.
+Most fetch live data from the official source and cache it locally; mpshock and inflateR ship their data bundled. All on CRAN.
 
 - [ons](https://github.com/charlescoverdale/ons): UK Office for National Statistics (GDP, CPI, unemployment, wages, trade, retail, house prices, public finances, productivity, population)
 - [boe](https://github.com/charlescoverdale/boe): Bank of England (policy rates, bond yields, gilt curves, money supply, lending rates)
@@ -25,11 +25,16 @@ Fetches live data from official sources. All on CRAN.
 - [fred](https://github.com/charlescoverdale/fred): US Federal Reserve FRED (full series plus ALFRED real-time vintages)
 - [readecb](https://github.com/charlescoverdale/readecb): European Central Bank (rates, HICP, exchange rates, monetary aggregates, yield curves)
 - [readnoaa](https://github.com/charlescoverdale/readnoaa): NOAA NCEI daily weather station observations (no API key required)
+- [readaec](https://github.com/charlescoverdale/readaec): Australian Electoral Commission (House and Senate results since 2007 by division and polling place, by-elections, the 2023 referendum, distribution of preferences)
+- [ato](https://github.com/charlescoverdale/ato): Australian Taxation Office Taxation Statistics via data.gov.au (individuals, companies, superannuation, GST, FBT, PAYG withholding, charities, excise, corporate tax transparency)
+- [aemo](https://github.com/charlescoverdale/aemo): Australian Energy Market Operator NEMweb (5- and 30-minute wholesale prices, demand, unit dispatch, interconnector flows, rooftop solar, bids, FCAS, gas)
+- [cer](https://github.com/charlescoverdale/cer): Australian Clean Energy Regulator (ACCU project register, Safeguard Mechanism baselines and emissions, LRET and SRES, NGER, Quarterly Carbon Market Reports)
 - [readoecd](https://github.com/charlescoverdale/readoecd): OECD cross-country economic and social indicators
 - [readimf](https://github.com/charlescoverdale/readimf): International Monetary Fund via the SDMX 3.0 API (World Economic Outlook with vintages, retired-IFS migration crosswalk, COFER reserves, commodity prices, government finance)
 - [comtrade](https://github.com/charlescoverdale/comtrade): UN Comtrade bilateral trade flows with RCA, HHI, and trade balance analysis
 - [mpshock](https://github.com/charlescoverdale/mpshock): 13 curated monetary policy shock series across US, UK, and AU
 - [carbondata](https://github.com/charlescoverdale/carbondata): ETS and voluntary carbon markets (EU, UK, RGGI, California, Verra, Gold Standard)
+- [aieconindex](https://github.com/charlescoverdale/aieconindex): Anthropic Economic Index (Claude usage mapped to O*NET occupations and tasks, country breakdowns, labour market exposure tables, release comparison, concentration metrics)
 - [inflateR](https://github.com/charlescoverdale/inflateR): Currency conversion and CPI utilities across countries
 
 ## R packages: applied analysis
@@ -44,10 +49,13 @@ Pure computation, no network access required. Good for analysis on any data fram
 - [nowcast](https://github.com/charlescoverdale/nowcast): Bridge equations, mixed-frequency alignment, ragged edge handling, forecast backtesting
 - [predictset](https://github.com/charlescoverdale/predictset): Conformal prediction (regression, classification, Mondrian, weighted, adaptive conformal inference)
 - [ivcheck](https://github.com/charlescoverdale/ivcheck): Instrumental-variable validity tests (Kitagawa, Mourifie-Wan, Frandsen-Lefgren-Leslie)
+- [greenbook](https://github.com/charlescoverdale/greenbook): HM Treasury Green Book cost-benefit primitives (kinked STPR, discount factors, NPV, equivalent annual cost, GDP deflator rebasing, vintaged parameter tables)
+- [magentabook](https://github.com/charlescoverdale/magentabook): HM Treasury Magenta Book evaluation primitives (theory of change, evaluation planning, power and MDE including cluster and stepped-wedge designs, Maryland SMS ratings, difference-in-differences, interrupted time series)
+- [evaluatellm](https://github.com/charlescoverdale/evaluatellm): Statistical inference for language model evaluations (clustered standard errors, paired model comparisons, power and MDE, judge agreement, prediction-powered inference, bootstrap rank intervals, Bradley-Terry ratings)
 
 ## AI and Claude Code skills
 
-- [econstack](https://github.com/charlescoverdale/econstack): 11 slash-command skills for economic analysis (cost-benefit, business case, regulatory impact, fiscal briefing, market research, input-output, briefing notes, audit)
+- [econstack](https://github.com/charlescoverdale/econstack): 7 slash-command skills for economic analysis (macro and fiscal briefings, market research, policy briefing notes, pre-appraisal longlisting, cost-benefit analysis, methodology audit)
 - [buildRpackage](https://github.com/charlescoverdale/buildRpackage): Full CRAN submission workflow as a Claude Code skill, capturing package ideation, naming, scaffolding, pre-flight, submission, and resubmission patterns
 
 ## Quick start for agents
