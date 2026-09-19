@@ -9,7 +9,7 @@ redirect_from:
 
 # G'day, I'm Charles.
 
-I'm an economist based in London working on climate finance, infrastructure development, and public policy.
+I'm an economist based in London working on climate, finance, and infrastructure.
 
 I'm currently leading economic studies for the UK Government and European Commission, including as the climate finance lead for the Mission Implementation Platform on Adaptation.
 
