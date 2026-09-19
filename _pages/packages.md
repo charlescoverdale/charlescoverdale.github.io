@@ -66,3 +66,4 @@ Applied analysis
 | [`inequality`](https://cran.r-project.org/package=inequality) | Inequality measurement, decomposition, poverty | [CRAN](https://cran.r-project.org/package=inequality) |
 | [`predictset`](https://github.com/charlescoverdale/predictset) | Conformal prediction intervals | [CRAN](https://cran.r-project.org/package=predictset) |
 | [`ivcheck`](https://github.com/charlescoverdale/ivcheck) | Instrumental variable validity tests (Kitagawa, Mourifie-Wan, FLL) | [CRAN](https://cran.r-project.org/package=ivcheck) |
+| [`evaluatellm`](https://github.com/charlescoverdale/evaluatellm) | Statistical inference for language model evaluations | [CRAN](https://cran.r-project.org/package=evaluatellm) |
